@@ -1,16 +1,16 @@
 {
-    "initialUrl": "https://test.skillsquirrel.com/home?fromMobile=true",
+    "initialUrl": "https://app.skillsquirrel.com/home?fromMobile=true",
     "allowedExactUrls": [
-        "https://test.skillsquirrel.com/home?fromMobile=true",
-        "https://test.skillsquirrel.com/groups?fromMobile=true",
-        "https://test.skillsquirrel.com/home",
-        "https://test.skillsquirrel.com/groups"
+        "https://app.skillsquirrel.com/home?fromMobile=true",
+        "https://app.skillsquirrel.com/groups?fromMobile=true",
+        "https://app.skillsquirrel.com/home",
+        "https://app.skillsquirrel.com/groups"
     ],
     "allowedStartsWithUrls": [
-        "https://test.skillsquirrel.com/view-post/",
-        "https://test.skillsquirrel.com/viewgroup/",
-        "https://test.skillsquirrel.com/search/",
-        "https://test.skillsquirrel.com/searchPost/",
-        "https://test.skillsquirrel.com/searchGroup/"
+        "https://app.skillsquirrel.com/view-post/",
+        "https://app.skillsquirrel.com/viewgroup/",
+        "https://app.skillsquirrel.com/search/",
+        "https://app.skillsquirrel.com/searchPost/",
+        "https://app.skillsquirrel.com/searchGroup/"
     ]
 }
