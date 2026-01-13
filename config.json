@@ -4,13 +4,17 @@
         "https://app.skillsquirrel.com/home?fromMobile=true",
         "https://app.skillsquirrel.com/groups?fromMobile=true",
         "https://app.skillsquirrel.com/home",
-        "https://app.skillsquirrel.com/groups"
+        "https://app.skillsquirrel.com/groups",
+        "https://app.skillsquirrel.com/",
+        "https://app.skillsquirrel.com/signup"
     ],
     "allowedStartsWithUrls": [
         "https://app.skillsquirrel.com/view-post/",
         "https://app.skillsquirrel.com/viewgroup/",
         "https://app.skillsquirrel.com/search/",
         "https://app.skillsquirrel.com/searchPost/",
-        "https://app.skillsquirrel.com/searchGroup/"
-    ]
+        "https://app.skillsquirrel.com/searchGroup/",
+        "https://app.skillsquirrel.com/signup/"
+    ],
+    "useInAppBrowser": true
 }
