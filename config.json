@@ -12,6 +12,5 @@
         "https://app.skillsquirrel.com/search/",
         "https://app.skillsquirrel.com/searchPost/",
         "https://app.skillsquirrel.com/searchGroup/"
-    ],
-    "useInAppBrowser": false
+    ]
 }
